@@ -106,7 +106,7 @@ From the [mitm.it](http://mitm.it) page:
 4. Click: **Place all certificates in the following store**
 5. Browse → Select: **Trusted Root Certification Authorities**
 6. Finish installation.
-
+**Note:** *Keep password blank when importing certificates*
 **Expected message:** *The import was successful.*
 
 ---
