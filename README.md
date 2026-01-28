@@ -67,7 +67,7 @@
 3. **Enable:**
    - Use a proxy server → **ON**
    - Address → `127.0.0.1`
-   - Port → `8080`
+   - Port → `8082`
 4. Click **Save**
 
 ---
