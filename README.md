@@ -70,6 +70,7 @@
    - Port → `8082`
 4. Click **Save**
 
+**Note:***once test sucessfully done change default ip (127.0.0.1) with server ip (1.189)*
 ---
 
 ## 🧩 STEP 4 — Verify Proxy Routing
